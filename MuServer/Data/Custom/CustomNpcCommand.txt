@@ -1,0 +1,6 @@
+//Index   Npc	NpcMap	NpcX	NpcY	NpcTalk	Command Text	Comment
+0         501	0	126	143	1	"/reset "	//NPC RESET
+1         502	0	128	143	1	"/pk"		//NPC PKCLEAR
+2         601   00      143     140     1           "/quest"
+3         793   92      188     102     1           "/control"          //Tower Arka War Event               
+end

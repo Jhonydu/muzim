@@ -1,0 +1,34 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5															
+0																							
+7	59	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Fire Helm					
+7	60	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Storm Jahad Helm					
+7	61	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Piercing Groove Helm					
+7	73	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Helmet					
+8	59	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Fire Armor					
+8	60	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Storm Jahad Armor					
+8	61	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Piercing Groove Armor					
+8	73	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Armor					
+9	59	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Fire Pants					
+9	60	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Storm Jahad Pants					
+9	60	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Storm Jahad Pants					
+9	73	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Pants					
+11	59	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Fire Boots					
+11	60	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Storm Jahad Boots					
+11	61	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Piercing Groove Boots					
+11	73	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Boots					
+0	32	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Glove					
+0	32	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Glove					
+0	33	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Holy Storm Claw					
+0	33	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Holy Storm Claw					
+0	34	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Piercing Blade Glove					
+0	34	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Piercing Blade Glove					
+0	35	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Star					
+0	35	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Star					
+15	30	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Chain Drive Parchment					
+15	31	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Dark Side Parchment					
+15	32	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Dragon Roar Parchment					
+15	33	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Dragon Slasher Parchment					
+15	34	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Ignore Defense Parchment					
+15	35	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Increase Health Parchment					
+15	36	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Increase Block Parchment					
+end																							

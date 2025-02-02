@@ -1,0 +1,44 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5																
+0																								
+14	0	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Apple						
+14	1	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Small Healing Potion						
+14	2	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Healing Potion						
+14	3	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Large Healing Potion						
+14	4	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Small Mana Potion						
+14	5	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Mana Potion						
+14	6	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Large Mana Potion						
+14	10	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Town Portal Scroll						
+14	8	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Antidote						
+//7	59	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Fire Helm						
+//7	60	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Storm Jahad Helm						
+//7	61	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Piercing Groove Helm						
+//7	73	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Helmet						
+//8	59	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Fire Armor						
+//8	60	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Storm Jahad Armor						
+//8	61	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Piercing Groove Armor						
+/8	73	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Armor						
+//9	59	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Fire Pants						
+//9	60	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Storm Jahad Pants						
+//9	60	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Storm Jahad Pants						
+//9	73	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Pants						
+//11	59	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Fire Boots						
+//11	60	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Storm Jahad Boots						
+//11	61	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Piercing Groove Boots						
+//11	73	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Boots						
+//0	32	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Glove						
+//0	32	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Sacred Glove						
+//0	33	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Holy Storm Claw						
+//0	33	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Holy Storm Claw						
+//0	34	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Piercing Blade Glove						
+//0	34	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Piercing Blade Glove						
+//0	35	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Star						
+//0	35	15	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Phoenix Soul Star						
+//15	30	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Chain Drive Parchment						
+//15	31	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Dark Side Parchment						
+//15	32	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Dragon Roar Parchment						
+//15	33	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Dragon Slasher Parchment						
+//15	34	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Ignore Defense Parchment						
+//15	35	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Increase Health Parchment						
+//15	36	0	0	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//Increase Block Parchment						
+end																								
+																								

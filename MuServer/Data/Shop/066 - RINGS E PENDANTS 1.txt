@@ -1,0 +1,18 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5														
+0																						
+13	12	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Pendant of Lighting				
+13	13	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Pendant of Fire				
+13	25	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Pendant of Ice				
+13	26	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Pendant of Wind				
+13	27	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Pendant of Water				
+13	28	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Pendant of Ability				
+15	210	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//ESPAÇO VAZIO 2X1				
+13	24	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Ring of Magic				
+13	8	9	100	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Ring of Ice				
+13	9	9	100	1	1	7	63	0	0	0	255	255	255	255	255	255	0	//Ring of Poison				
+13	21	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Ring of Fire				
+13	22	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Ring of Earth				
+13	23	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Ring of Wind				
+13	24	9	0	0	1	7	63	0	0	0	255	255	255	255	255	255	0	//Ring of Magic				
+end																						
+																						

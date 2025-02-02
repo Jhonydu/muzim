@@ -1,0 +1,9 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5														
+0																						
+4	0	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Short Bow				
+4	1	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Bow				
+4	2	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Elven Bow				
+4	4	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Tiger Bow				
+4	6	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Chaos Nature Bow				
+4	16	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Saint Crossbow				
+end																						

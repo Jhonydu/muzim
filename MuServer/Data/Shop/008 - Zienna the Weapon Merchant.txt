@@ -1,0 +1,24 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5														
+0																						
+8	15	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Storm Crow Armor				
+8	20	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Thunder Hawk Armor				
+8	23	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Hurricane Armor				
+8	32	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Volcano Armor				
+9	15	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Storm Crow Pants				
+9	20	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Thunder Hawk Pants				
+9	23	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Hurricane Pants				
+9	32	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Volcano Pants				
+10	15	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Storm Crow Gloves				
+10	20	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Thunder Hawk Gloves				
+10	23	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Hurricane Gloves				
+10	32	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Volcano Gloves				
+11	15	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Storm Crow Boots				
+11	20	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Thunder Hawk Boots				
+11	23	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Hurricane Boots				
+11	32	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Volcano Boots				
+0	21	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Bone Blade				
+0	25	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Flameberge				
+12	13	0	0	0	1	0	0	0	0	0	255	255	255	255	255	255	0	//Orb of Impale				
+12	16	0	0	0	1	0	0	0	0	0	255	255	255	255	255	255	0	//Orb of Fire Slash				
+12	47	0	0	0	1	0	0	0	0	0	255	255	255	255	255	255	0	//Crystal of Flame Strike				
+end																						

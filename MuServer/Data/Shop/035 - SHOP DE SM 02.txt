@@ -1,0 +1,26 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5															
+0																							
+7	35	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Eclipse Helm					
+7	18	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Grand Soul Helm					
+7	22	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Soul Helm					
+7	30	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Venom Mist Helm					
+8	35	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Eclipse Armor					
+8	18	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Grand Soul Armor					
+8	22	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Soul Armor					
+8	30	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Venom Mist Armor					
+9	35	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Eclipse Pants					
+9	18	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Grand Soul Pants					
+9	22	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Soul Pants					
+9	30	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Venom Mist Pants					
+10	35	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Eclipse Gloves					
+10	18	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Grand Soul Gloves					
+10	22	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Soul Gloves					
+10	30	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Venom Mist Gloves					
+11	35	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Eclipse Boots					
+11	18	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Grand Soul Boots					
+11	22	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Soul Boots					
+11	30	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Venom Mist Boots					
+end																							
+																							
+																							
+																							

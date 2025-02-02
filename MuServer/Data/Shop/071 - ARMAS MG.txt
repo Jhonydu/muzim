@@ -1,0 +1,8 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5														
+0																						
+//15	203	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//ESPAÇO VAZIO 8X1				
+0	18	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	// Thunder Blade				
+0	25	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	// Sword Dancer				
+0	21	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Reign Blade				
+0	23	0	255	1	1	7	63	0	0	0	255	255	255	255	255	255	0	// Explosion Blade				
+end																						

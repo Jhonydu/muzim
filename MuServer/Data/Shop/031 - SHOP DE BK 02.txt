@@ -1,0 +1,29 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5															
+0																							
+7	1	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dragon Helm					
+7	16	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Black Dragon Helm					
+7	17	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Phoenix Helm					
+7	21	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Great Dragon Helm					
+8	1	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dragon Armor					
+8	16	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Black Dragon Armor					
+8	17	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Phoenix Armor					
+8	21	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Great Dragon Armor					
+9	1	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dragon Pants					
+9	16	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Black Dragon Pants					
+9	17	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Phoenix Pants					
+9	21	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Great Dragon Pants					
+10	1	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dragon Gloves					
+10	16	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Black Dragon Gloves					
+10	17	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Phoenix Gloves					
+10	21	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Great Dragon Gloves					
+11	1	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dragon Boots					
+11	16	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Black Dragon Boots					
+11	17	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Phoenix Boots					
+11	21	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Great Dragon Boots					
+7	29	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dragon Knight Helm					
+8	29	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dragon Knight Armor					
+9	29	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dragon Knight Pants					
+10	29	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dragon Knight Gloves					
+11	29	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dragon Knight Boots					
+end																							
+																							

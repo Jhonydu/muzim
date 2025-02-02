@@ -1,0 +1,18 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5															
+0																							
+6	0	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Small Shield					
+6	1	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Horn Shield					
+6	2	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Kite Shield					
+6	3	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Elven Shield					
+6	4	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Buckler					
+6	5	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Dragon Slayer Shield					
+6	6	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Skull Shield					
+6	7	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Spiked Shield					
+6	8	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Tower Shield					
+6	9	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Plate Shield					
+6	10	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Large Round Shield					
+6	11	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Serpent Shield					
+6	12	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Bronze Shield					
+6	13	7	255	1	1	7	0	0	0	0	255	255	255	255	255	255	0	//Dragon Shield					
+end																							
+																							

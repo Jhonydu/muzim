@@ -1,0 +1,28 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5													
+0																					
+7	25	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Light Plate Mask			
+7	26	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Adamantine Mask			
+7	27	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Steel Mask			
+7	28	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Master Mask			
+8	25	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Light Plate Armor			
+8	26	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Adamantine Armor			
+8	27	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Steel Armor			
+8	28	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Master Armor			
+9	25	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Light Plate Pants			
+9	26	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Adamantine Pants			
+9	27	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Steel Pants			
+9	28	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Master Pants			
+10	25	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Light Plate Gloves			
+10	26	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Adamantine Gloves			
+10	27	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Steel Gloves			
+10	28	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Master Gloves			
+11	25	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Light Plate Boots			
+11	26	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Adamantine Boots			
+11	27	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Steel Boots			
+11	28	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Dark Master Boots			
+7	33	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Sunlight Mask			
+8	33	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Sunlight Armor			
+9	33	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Sunlight Pants			
+10	33	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Sunlight Gloves			
+11	33	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Sunlight Boots			
+end																					

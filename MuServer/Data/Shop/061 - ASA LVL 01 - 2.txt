@@ -1,0 +1,14 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5														
+0																						
+15	201	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//ESPAÇO VAZIO 2X2				
+12	2	15	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Wings of Satan				
+15	201	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//ESPAÇO VAZIO 2X2				
+15	207	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//ESPAÇO VAZIO 2X3				
+12	1	15	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Wings of Heaven				
+15	207	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//ESPAÇO VAZIO 2X3				
+15	201	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//ESPAÇO VAZIO 2X2				
+12	41	15	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Wings of Curse				
+15	201	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//ESPAÇO VAZIO 2X2				
+15	209	0	255	0	0	0	0	0	0	0	255	255	255	255	255	255	0	//ESPAÇO VAZIO 3X2				
+12	0	15	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Wings of Elf				
+end																						

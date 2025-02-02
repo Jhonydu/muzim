@@ -1,0 +1,24 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5																
+0																								
+8	15	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Storm Crow Armor						
+8	37	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Valiant Armor						
+8	20	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Thunder Hawk Armor						
+8	23	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Hurricane Armor						
+9	15	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Storm Crow Pants						
+9	37	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Valiant Pants						
+9	20	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Thunder Hawk Pants						
+9	23	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Hurricane Pants						
+10	15	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Storm Crow Gloves						
+10	37	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Valiant Gloves						
+10	20	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Thunder Hawk Gloves						
+10	23	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Hurricane Gloves						
+11	15	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Storm Crow Boots						
+11	37	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Valiant Boots						
+11	20	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Thunder Hawk Boots						
+11	23	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Hurricane Boots						
+8	32	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Volcano Armor						
+9	32	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Volcano Pants						
+10	32	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Volcano Gloves						
+11	32	0	255	0	1	7	63	0	0	0	255	255	255	255	255	255	0	// Volcano Boots						
+end																								
+																								
